@@ -7,3 +7,4 @@ elif number > 50 and number < 100:
 else:
 	print("Number is greater than 100")
 
+print("Hello")
